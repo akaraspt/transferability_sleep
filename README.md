@@ -2,8 +2,6 @@
 
 Code for the model in the paper **Quantifying the impact of data characteristics on the transferability of sleep stage scoring models by Akara Supratak and Peter Haddawy from the Faculty of ICT, Mahidol University**.
 
-The code will be available soon.
-
 This work has been accepted for publication in [Artificial Intelligence in Medicine](https://doi.org/10.1016/j.artmed.2023.102540).
 
 You can also find our accepted version before the publication in [arXiv](https://arxiv.org/abs/2304.06033).
